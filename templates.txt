@@ -1,1 +1,8 @@
-
+# If no server exists
+no-server
+# When server exist
+<url>
+# When server in maintenance
+maintenance
+# Message
+**++MSG++**:<message>
